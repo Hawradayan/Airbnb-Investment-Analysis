@@ -15,7 +15,6 @@ The focus is on identifying high-performing hosts, neighborhoods, and property t
 - The raw data used in this project is included in the `RAW` folder of this repository
   
 ## Files Included
-- `Excel File`: The main Excel file used for cleaning, calculations, and creating the visualizations.  
 - `RAW`: Folder containing the raw Airbnb data downloaded from Inside Airbnb.  
 - `Presentation`: Folder containing presentation of the analysis and key insights.  
 
